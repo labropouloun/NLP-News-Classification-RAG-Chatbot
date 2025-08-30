@@ -141,27 +141,6 @@ For our tasks, we focused on the Top 5 most frequent categories: Politics, Welln
 -Clear chat history, debug panel, retrieval parameter controls
 
 
-
-\## Key Results
-
-
-
--Topic Modeling: NMF outperformed LDA in interpretability (Coherence ≈ 0.67).
-
-
-
--Classification: DistilBERT achieved the best accuracy among all models.
-
-
-
--Explainability: LIME provided meaningful insights into model predictions.
-
-
-
--RAG System: Produced relevant and context-aware answers with a smooth UI.
-
-
-
 \## Installation
 
 
