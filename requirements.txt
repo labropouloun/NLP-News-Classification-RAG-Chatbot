@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+scikit-learn
+gensim
+plotly
+matplotlib
+seaborn
+wordcloud
+pyLDAvis
+sentence-transformers
+transformers
+datasets
+lime
+torch
