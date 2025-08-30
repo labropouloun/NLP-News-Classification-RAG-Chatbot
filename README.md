@@ -4,13 +4,13 @@
 
 This repository contains the code and report for an academic Natural Language Processing (NLP) project.
 
-The project demonstrates a full NLP pipeline — from data collection and preprocessing to feature engineering, model building, and deployment — using both traditional ML and deep learning approaches. We also integrated Retrieval-Augmented Generation (RAG) into a conversational AI system with a Streamlit interface..
+The project demonstrates a full NLP pipeline — from data collection and preprocessing to feature engineering, model building, and deployment — using both traditional ML and deep learning approaches. We also integrated Retrieval-Augmented Generation (RAG) into a conversational AI system with a Streamlit interface.
 
 
 
 Important Note:
 
-The app.py file is not provided in this repository. It is an academic Python script that activates a Streamlit application for the RAG-based conversational AI, which was developed and deployed on Hugging Face Spaces..
+The app.py file is not provided in this repository. It is an academic Python script that activates a Streamlit application for the RAG-based conversational AI, which was developed and deployed on Hugging Face Spaces.
 
 
 
